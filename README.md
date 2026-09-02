@@ -7,5 +7,5 @@ I am Abdullah, an undergraduate physics student at King Saud University. I have 
 
 ### 📊 GitHub Stats
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alshrayyef&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dirrrac&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
 </div>
