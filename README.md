@@ -3,7 +3,7 @@ I am Abdullah, an undergraduate physics student at King Saud University. I have 
 
 ### 💻 Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=
 
 ### 📊 GitHub Stats
 <div align="left">
